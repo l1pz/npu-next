@@ -6,7 +6,7 @@ Ezzel a projekttel szeretnénk kitölteni a [Neptun PowerUp!](https://github.com
 Köszönet [Máté Solymosi](https://github.com/solymosi)nak az eredeti verzióért.
 
 Jelenleg fejlesztés alatt.
-Szívesen várjuk az ötleteket az új felület jobbátételéhez.
+Szívesen várjuk az ötleteket az új felület jobbá tételéhez.
 
 ## Funkciók (összeírás alatt)
 
